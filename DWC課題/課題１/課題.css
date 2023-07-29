@@ -60,6 +60,10 @@ main {
   margin: 15px 0 5px;
 }
 
+.sp_br {
+  display: none;
+}
+
 footer {
   height: 50px;
   background-color: #aaa;
@@ -79,13 +83,13 @@ footer {
 
   .step-box {
     width: 90%;
-    margin-bottom: 20px;
     margin: 0 auto;
-  }
+    margin-bottom: 20px;
+    }
 
   .step-box:last-child {
   margin: 0 auto;
-}
+  }
 
   .step-img {
     width: 100%;
@@ -93,6 +97,11 @@ footer {
 
   .text {
     font-size: 15px;
+    text-align: center;
+  }
+
+  .sp_br {
+    display: block;
   }
 
   fotter {
