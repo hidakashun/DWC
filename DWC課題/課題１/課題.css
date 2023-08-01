@@ -96,8 +96,8 @@ footer {
   }
 
   .text {
-    font-size: 15px;
     text-align: center;
+    width: 100%;
   }
 
   .sp_br {
